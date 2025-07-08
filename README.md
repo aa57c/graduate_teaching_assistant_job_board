@@ -1,21 +1,7 @@
 # Local Development
 # Step 1
 Without this the front-end won't display anything on the page. DO THIS FIRST!
-## Running the Backend Server
-First open a terminal and navigate to the server folder inside this project
-### Available Scripts
-
-### `npm install`
-Install dependencies first
-#### `npm run backend-server`
-You can see the responses for each database call on http://localhost:5000
-Both are GET methods for information on the home page and postings page on the front end
-##### To see the `/home` response
-http://localhost:5000/home
-##### To see the `/postings` response
-http://localhost:5000/postings
-
-#### You can also run `nodemon server.js` to get the same effect
+Clone this repo and follow the instructions in the README: https://github.com/aa57c/Job_Board_Backend
 
 # Step 2
 
